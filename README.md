@@ -11,9 +11,7 @@ Welcome to my GitHub profile! I'm a passionate game developer with 1 year of exp
 ## 🛠 Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -23,19 +21,23 @@ Welcome to my GitHub profile! I'm a passionate game developer with 1 year of exp
 ## 📚 Projects
 
 ### Ludo Rivals.
-**Description:** An Engaging Ludo Game In PLaystore with over 50k Downloads  
-**Technologies:** Unity,NodeJs,C#  
+![Project Image](https://via.placeholder.com/400x200.png?text=Ludo+Rivals)
+**Description:** An Engaging Ludo Game In Playstore with over 50k Downloads  
+**Technologies:** Unity, NodeJs, C#
 
 ---
 
 ### Wheel Wizards
+![Project Image](https://via.placeholder.com/400x200.png?text=Wheel+Wizards)
 **Description:** Car Simulator Game With Open World Missions  
-**Technologies:** C#,Unity
+**Technologies:** C#, Unity
+
+---
 
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuiringol@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vishnu-premanand-aa9368223)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-premanand-aa9368223)
 
 ---
 
@@ -47,6 +49,3 @@ Welcome to my GitHub profile! I'm a passionate game developer with 1 year of exp
 ---
 
 ![Footer Banner](https://via.placeholder.com/1000x100.png?text=Thanks+for+visiting+my+profile!)
-
-
-
