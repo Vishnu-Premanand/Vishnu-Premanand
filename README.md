@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate game developer with 1 year of exp
 ## 📚 Projects
 
 ### Ludo Rivals.
-!(https://media.licdn.com/dms/image/D5622AQF1rJ95Nqt5ug/feedshare-shrink_1280/0/1718877070240?e=1725494400&v=beta&t=UGtTtAaOxG2Rk2Wl1rInuZ2qKLjnJGIi38g2_3eP6VA).
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F784330091388336609%2F&psig=AOvVaw3IdLWuiW5pj-XtKbPMNDAb&ust=1722650404763000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjN6f2a1YcDFQAAAAAdAAAAABAE
 **Description:** An Engaging Ludo Game In PLaystore with over 50k Downloads  
 **Technologies:** Unity,NodeJs,C#  
 
