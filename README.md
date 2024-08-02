@@ -21,14 +21,12 @@ Welcome to my GitHub profile! I'm a passionate game developer with 1 year of exp
 ## 📚 Projects
 
 ### Ludo Rivals.
-![Project Image](https://github.com/Vishnu-Premanand/Private/blob/39fbae01eebdce27bd2c42ea4f394b16b573f6e0/unnamed.webp)
 **Description:** An Engaging Ludo Game In Playstore with over 50k Downloads  
 **Technologies:** Unity, NodeJs, C#
 
 ---
 
 ### Wheel Wizards
-![Project Image](https://via.placeholder.com/400x200.png?text=Wheel+Wizards)
 **Description:** Car Simulator Game With Open World Missions  
 **Technologies:** C#, Unity
 
@@ -43,8 +41,8 @@ Welcome to my GitHub profile! I'm a passionate game developer with 1 year of exp
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-Premanand&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Premanand&layout=compact&theme=dark)
 
 ---
 
