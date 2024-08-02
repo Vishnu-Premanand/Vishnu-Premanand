@@ -1,6 +1,6 @@
 # Hi there, I'm Vishnu Premanand 👋
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile!)
+![Banner](https://github.com/Vishnu-Premanand/Private/blob/467bebad9345ab24e180166c1ce9345dbd855b8c/5258892.jpg)
 
 **`Game Developer | Software Engineer | Indie Game Enthusiast`**
 
