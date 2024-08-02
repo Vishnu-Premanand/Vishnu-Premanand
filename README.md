@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate game developer with 1 year of exp
 ## 📚 Projects
 
 ### Ludo Rivals.
-(1718877070240.jpg)
+(https://github.com/Vishnu-Premanand/Private/blob/cbe049e0556a7baaf15d69c7c18795c4695e737e/1718877070240.jpg)
 **Description:** An Engaging Ludo Game In PLaystore with over 50k Downloads  
 **Technologies:** Unity,NodeJs,C#  
 
